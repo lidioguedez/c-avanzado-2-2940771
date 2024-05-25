@@ -1,0 +1,15 @@
+G:\Repositorios\c-avanzado-2-2940771\bin\Debug\net8.0\c-avanzado-2-2940771.exe
+G:\Repositorios\c-avanzado-2-2940771\bin\Debug\net8.0\c-avanzado-2-2940771.deps.json
+G:\Repositorios\c-avanzado-2-2940771\bin\Debug\net8.0\c-avanzado-2-2940771.runtimeconfig.json
+G:\Repositorios\c-avanzado-2-2940771\bin\Debug\net8.0\c-avanzado-2-2940771.dll
+G:\Repositorios\c-avanzado-2-2940771\bin\Debug\net8.0\c-avanzado-2-2940771.pdb
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\c-avanzado-2-2940771.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\c-avanzado-2-2940771.AssemblyInfoInputs.cache
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\c-avanzado-2-2940771.AssemblyInfo.cs
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\c-avanzado-2-2940771.csproj.CoreCompileInputs.cache
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\c-avanzado-2-2940771.sourcelink.json
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\c-avanzado-2-2940771.dll
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\refint\c-avanzado-2-2940771.dll
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\c-avanzado-2-2940771.pdb
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\c-avanzado-2-2940771.genruntimeconfig.cache
+G:\Repositorios\c-avanzado-2-2940771\obj\Debug\net8.0\ref\c-avanzado-2-2940771.dll
